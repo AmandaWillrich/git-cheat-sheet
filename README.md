@@ -1,5 +1,5 @@
 # GIT + GITHUB Cheat Sheet
----
+
 ## Branch Commands
 
 | **Comando** | **O que faz** |
@@ -15,8 +15,6 @@
 | **git fetch origin** | Download de todas as branches remotas
 | **git merge new-branch** | Realiza merge entre os branches
 
----
-
 ## Stash
 
 | **Comando** | **O que faz** |
@@ -25,8 +23,6 @@
 | **git stash list** | Lista todos os stashes criados
 | **git stash apply** | Volta ao último stash
 | **git stash branch my-branch** | Cria um branch a partir de um stash
-
----
 
 ## Github
 
@@ -40,8 +36,6 @@
 | **git init** | Inicia um repositório local
 | **git clone "ssh://git@github.com/[username]/[repository]** | Cria uma cópia do repositório
 
----
-
 ## Log
 
 | **Comando** | **O que faz** |
@@ -49,8 +43,6 @@
 | **git log** | Exibe o histórico dos últimos commits
 | **git log -p -3** | Exibe o histórico com diff dos últimos 3 commits
 | **git log --author=usuario** | Exibe histórico de um determinado autor
-
----
 
 ## Arquivos
 
