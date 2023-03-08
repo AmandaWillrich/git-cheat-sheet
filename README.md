@@ -52,7 +52,7 @@
 
 ---
 
-## Log
+## Arquivos
 
 | **Comando** | **O que faz** |
 | --- | --- |
